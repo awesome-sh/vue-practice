@@ -9,5 +9,5 @@
   
   
   ### :memo:  Practice List
-    - [01-Vue-Cli-Project](https://github.com/awesome-sh/vue-practice/tree/main/01-vue-cli-project)
+   - 01-Vue-Cli-Project(https://github.com/awesome-sh/vue-practice/tree/main/01-vue-cli-project)
   
